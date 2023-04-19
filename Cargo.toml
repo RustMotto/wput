@@ -2,6 +2,18 @@
 name = "wput"
 version = "0.0.0"
 edition = "2021"
+rust-version = "1.64"
+authors = ["xiucai <me@nagexiucai.com>"]
+license = "SHTL"
+readme = "README.md"
+repository = "https://github.com/RustMotto/wput"
+homepage = "https://github.com/RustMotto/wput"
+documentation = "https://github.com/RustMotto/wput"
+description = """
+Another http/https upload tool.
+"""
+categories = ["web", "network-utils"]
+keywords = ["upload", "http", "https"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
