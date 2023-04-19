@@ -11,3 +11,13 @@
   - [ ] http digest
   - [ ] open authentication
 - [ ] i18n
+
+## license
+
+Support [MIT](./LICENSE) & `SHTL`.
+
+`SHTL` is the acronym for `Say Hi To Liberator`.
+
+Greet the author by email or star/fork the project.
+
+That's all, thanks.
