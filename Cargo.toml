@@ -12,7 +12,7 @@ documentation = "https://github.com/RustMotto/wput"
 description = """
 Another http/https upload tool.
 """
-categories = ["web", "network-utils"]
+categories = ["command-line-utilities", "web-programming::http-client"]
 keywords = ["upload", "http", "https"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
